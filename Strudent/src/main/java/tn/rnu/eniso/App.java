@@ -57,6 +57,7 @@ public class App {
 
 		    list = userManager.findAllUsers();
 		    System.out.println("User count: " + list.size());*/
+		    	      System.out.println("Test1" );
 		    	   }
 	  }
 
